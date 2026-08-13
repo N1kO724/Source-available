@@ -1,0 +1,14 @@
+Source-available/
+├── LICENSE
+├── README.md
+└── scene-to-art-lab/
+    ├── SKILL.md
+    ├── LICENSE.txt
+    ├── agents/
+    │   └── openai.yaml
+    ├── assets/
+    │   └── icon.svg
+    └── references/
+        ├── art-modes.md
+        ├── poster-systems.md
+        └── typography.md
