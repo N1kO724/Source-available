@@ -1,0 +1,13 @@
+interface:
+  display_name: 实景艺术实验室 · Scene to Art Lab
+  short_description: 将真实照片重构为具有版式层级的3:4艺术海报
+  default_prompt: 使用 $scene-to-art-lab 将我上传的照片重构为3:4艺术海报，选择合适的媒介与版式系统，保留关键识别特征，并建立主视觉、图形场和文字安全区。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
