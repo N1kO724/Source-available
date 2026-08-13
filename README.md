@@ -19,7 +19,7 @@ space, and natural edge dissolution.
 
 In Codex, use the Skill installer with this directory:
 
-https://github.com/YOUR_USERNAME/scene-to-art-lab/tree/main/scene-to-art-lab
+https://github.com/N1kO724/scene-to-art-lab/tree/main/scene-to-art-lab
 
 Restart Codex after installation.
 
