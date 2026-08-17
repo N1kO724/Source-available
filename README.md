@@ -29,7 +29,8 @@ or project Skills directory.
 ## Usage
 
 ```text
-$scene-to-art-lab
+@scene-to-art-lab
 
 分析这张照片，选择合适的艺术媒介和海报版式，
 生成横版 4:3 艺术海报。
+```
