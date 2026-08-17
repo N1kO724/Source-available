@@ -21,7 +21,7 @@ In Codex, use the Skill installer with this directory:
 
 https://github.com/N1kO724/scene-to-art-lab/tree/main/scene-to-art-lab
 
-Restart Codex after installation.
+After installation, refresh or reopen the Skills page if it does not appear immediately.
 
 You can also copy the `scene-to-art-lab` folder into your personal
 or project Skills directory.
